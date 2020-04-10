@@ -14,11 +14,11 @@ The wildlife should also match the existent one.
   To get metal and stone, the players need to go out in the sea and find these resources elsewhere.
   But beware of the beasts scattered all over these rich areas...
 
-![](South_East_Asia.png)
+![](South_East_Asia/South_East_Asia.png)
 
-![](Screenshot_from_2019-06-10_20-20-46.png)
+![](South_East_Asia/Screenshot_from_2019-06-10_20-20-46.png)
 
-![](Screenshot_from_2019-06-10_19-45-51.png)
+![](South_East_Asia/Screenshot_from_2019-06-10_19-45-51.png)
 
 
 # License
