@@ -25,7 +25,7 @@ The wildlife should also match the existent one.
 
 The aim of the license is to make every single map in this repository compatible for inclusion in 0ad.
 
-Considering the aim is to include the maps in the official 0ad, the license chosen is:
+
 
 
 All maps are licensed under the CC-BY-SA 3.0.
