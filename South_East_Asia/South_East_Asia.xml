@@ -32,9 +32,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="185.074" y="227.545" z="652.441"/>
-		<Rotation angle="0.523239"/>
-		<Declination angle="0.462412"/>
+		<Position x="513.146" y="92.9253" z="329.089"/>
+		<Rotation angle="0"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -45,9 +45,9 @@
   "LockTeams": false,
   "Name": "South_East_Asia",
   "PlayerData": [
-    "",
+    null,
     {
-      "Civ": "athen"
+      "Civ": "rome"
     },
     {
       "Civ": "cart"
@@ -135,13 +135,6 @@
 			<Position x="1219.8003" z="411.67225"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="12513"/>
-		</Entity>
-		<Entity uid="8313">
-			<Template>structures/athen/civil_centre</Template>
-			<Player>1</Player>
-			<Position x="952.5691" z="659.2699"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="3152"/>
 		</Entity>
 		<Entity uid="8318">
 			<Template>structures/cart/civil_centre</Template>
@@ -13768,6 +13761,20 @@
 			<Position x="324.41144" z="1085.57496"/>
 			<Orientation y="-2.9289"/>
 			<Actor seed="29423"/>
+		</Entity>
+		<Entity uid="10626">
+			<Template>gaia/fauna_rhinoceros_white</Template>
+			<Player>1</Player>
+			<Position x="966.30945" z="624.22986"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62184"/>
+		</Entity>
+		<Entity uid="10627">
+			<Template>structures/rome/civil_centre</Template>
+			<Player>1</Player>
+			<Position x="968.6189" z="667.7652"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="65343"/>
 		</Entity>
 	</Entities>
 	<Paths/>
