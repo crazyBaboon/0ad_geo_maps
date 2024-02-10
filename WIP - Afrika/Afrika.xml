@@ -32,7 +32,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1059.34" y="182.058" z="1363.84"/>
+		<Position x="1054.86" y="219.815" z="1.7141"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -46,6 +46,7 @@
   "LockTeams": false,
   "Name": "Afrikas",
   "PlayerData": [
+    null,
     {
       "Civ": "ptol"
     },
@@ -8775,6 +8776,419 @@
 			<Position x="1022.00788" z="184.27985"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="1197"/>
+		</Entity>
+		<Entity uid="1308">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1005.81226" z="859.86231"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50957"/>
+		</Entity>
+		<Entity uid="1309">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1014.9809" z="860.15168"/>
+			<Orientation y="-1.57081"/>
+			<Actor seed="146"/>
+		</Entity>
+		<Entity uid="1310">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1081.72657" z="865.15406"/>
+			<Orientation y="-2.28116"/>
+			<Actor seed="63608"/>
+		</Entity>
+		<Entity uid="1311">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1091.75318" z="895.99958"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="48197"/>
+		</Entity>
+		<Entity uid="1312">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1071.98292" z="935.93531"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="16456"/>
+		</Entity>
+		<Entity uid="1313">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1099.4004" z="869.23768"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="5405"/>
+		</Entity>
+		<Entity uid="1314">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1041.71094" z="804.92676"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21239"/>
+		</Entity>
+		<Entity uid="1315">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1017.26673" z="746.87458"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34100"/>
+		</Entity>
+		<Entity uid="1316">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1019.2743" z="720.3285"/>
+			<Orientation y="-0.50182"/>
+			<Actor seed="602"/>
+		</Entity>
+		<Entity uid="1317">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1026.91883" z="687.80634"/>
+			<Orientation y="-1.27369"/>
+			<Actor seed="22028"/>
+		</Entity>
+		<Entity uid="1318">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1014.59907" z="672.16852"/>
+			<Orientation y="-1.11484"/>
+			<Actor seed="7394"/>
+		</Entity>
+		<Entity uid="1319">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1063.51124" z="682.62195"/>
+			<Orientation y="1.94152"/>
+			<Actor seed="24805"/>
+		</Entity>
+		<Entity uid="1320">
+			<Template>gaia/tree/bush_tropic</Template>
+			<Player>0</Player>
+			<Position x="1078.75379" z="666.20942"/>
+			<Orientation y="1.33892"/>
+			<Actor seed="6833"/>
+		</Entity>
+		<Entity uid="1321">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="931.79474" z="607.05243"/>
+			<Orientation y="-2.78298"/>
+			<Actor seed="7076"/>
+		</Entity>
+		<Entity uid="1322">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="922.56226" z="624.53205"/>
+			<Orientation y="-0.6785"/>
+			<Actor seed="771"/>
+		</Entity>
+		<Entity uid="1323">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="925.35035" z="639.02503"/>
+			<Orientation y="-0.75771"/>
+			<Actor seed="16822"/>
+		</Entity>
+		<Entity uid="1324">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="873.75702" z="716.13965"/>
+			<Orientation y="-1.52274"/>
+			<Actor seed="6333"/>
+		</Entity>
+		<Entity uid="1325">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="967.48218" z="647.01478"/>
+			<Orientation y="-0.89396"/>
+			<Actor seed="47556"/>
+		</Entity>
+		<Entity uid="1326">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="1020.90174" z="711.08198"/>
+			<Orientation y="-0.96422"/>
+			<Actor seed="43694"/>
+		</Entity>
+		<Entity uid="1327">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="1009.17713" z="712.35389"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28194"/>
+		</Entity>
+		<Entity uid="1328">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="1015.72748" z="627.59076"/>
+			<Orientation y="-0.46404"/>
+			<Actor seed="10738"/>
+		</Entity>
+		<Entity uid="1329">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="999.39466" z="610.68201"/>
+			<Orientation y="2.12987"/>
+			<Actor seed="19197"/>
+		</Entity>
+		<Entity uid="1330">
+			<Template>gaia/tree/tropic_rainforest</Template>
+			<Player>0</Player>
+			<Position x="1005.56446" z="586.07306"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4646"/>
+		</Entity>
+		<Entity uid="1331">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1115.30848" z="103.95397"/>
+			<Orientation y="-0.46576"/>
+			<Actor seed="37014"/>
+		</Entity>
+		<Entity uid="1332">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1193.28199" z="182.7934"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21870"/>
+		</Entity>
+		<Entity uid="1333">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1192.25709" z="175.80103"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="36359"/>
+		</Entity>
+		<Entity uid="1334">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1182.96827" z="165.91974"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="40324"/>
+		</Entity>
+		<Entity uid="1335">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1180.62488" z="193.5507"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="21324"/>
+		</Entity>
+		<Entity uid="1336">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1169.51978" z="180.18931"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18464"/>
+		</Entity>
+		<Entity uid="1337">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1098.11707" z="105.15003"/>
+			<Orientation y="-0.53856"/>
+			<Actor seed="55405"/>
+		</Entity>
+		<Entity uid="1338">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1070.02698" z="96.886"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26580"/>
+		</Entity>
+		<Entity uid="1339">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1061.55298" z="115.69309"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14884"/>
+		</Entity>
+		<Entity uid="1340">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1027.6974" z="134.80643"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="37941"/>
+		</Entity>
+		<Entity uid="1341">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1023.7082" z="91.94111"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60654"/>
+		</Entity>
+		<Entity uid="1342">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1014.72095" z="90.55396"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="56926"/>
+		</Entity>
+		<Entity uid="1343">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1056.84961" z="108.56574"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="60968"/>
+		</Entity>
+		<Entity uid="1344">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1103.43116" z="108.82854"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28369"/>
+		</Entity>
+		<Entity uid="1345">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1076.9131" z="117.51101"/>
+			<Orientation y="-1.06067"/>
+			<Actor seed="43719"/>
+		</Entity>
+		<Entity uid="1346">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1078.94825" z="109.32956"/>
+			<Orientation y="2.97242"/>
+			<Actor seed="31716"/>
+		</Entity>
+		<Entity uid="1347">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1079.95887" z="126.74527"/>
+			<Orientation y="-0.33802"/>
+			<Actor seed="53210"/>
+		</Entity>
+		<Entity uid="1348">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1211.12684" z="238.74872"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="47705"/>
+		</Entity>
+		<Entity uid="1349">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1191.44227" z="210.09348"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="55077"/>
+		</Entity>
+		<Entity uid="1350">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1187.89844" z="209.94123"/>
+			<Orientation y="2.81151"/>
+			<Actor seed="16379"/>
+		</Entity>
+		<Entity uid="1351">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1197.86255" z="215.5464"/>
+			<Orientation y="2.86834"/>
+			<Actor seed="2792"/>
+		</Entity>
+		<Entity uid="1352">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1249.58155" z="249.69886"/>
+			<Orientation y="-0.42212"/>
+			<Actor seed="37003"/>
+		</Entity>
+		<Entity uid="1353">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1248.96119" z="233.58524"/>
+			<Orientation y="-0.55054"/>
+			<Actor seed="20171"/>
+		</Entity>
+		<Entity uid="1354">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1251.48255" z="211.2678"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="12965"/>
+		</Entity>
+		<Entity uid="1355">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1244.52881" z="218.51432"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="13345"/>
+		</Entity>
+		<Entity uid="1356">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1200.1797" z="170.86841"/>
+			<Orientation y="3.00091"/>
+			<Actor seed="48347"/>
+		</Entity>
+		<Entity uid="1357">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1188.36414" z="168.72934"/>
+			<Orientation y="2.85694"/>
+			<Actor seed="8082"/>
+		</Entity>
+		<Entity uid="1358">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1177.85376" z="164.30073"/>
+			<Orientation y="-0.67305"/>
+			<Actor seed="18787"/>
+		</Entity>
+		<Entity uid="1359">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1169.65833" z="152.99881"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38073"/>
+		</Entity>
+		<Entity uid="1360">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1148.68396" z="139.78763"/>
+			<Orientation y="-1.27692"/>
+			<Actor seed="56162"/>
+		</Entity>
+		<Entity uid="1361">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1099.64258" z="131.50058"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38920"/>
+		</Entity>
+		<Entity uid="1362">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1105.00135" z="131.60389"/>
+			<Orientation y="-2.82522"/>
+			<Actor seed="46783"/>
+		</Entity>
+		<Entity uid="1363">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1040.18628" z="103.20063"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46940"/>
+		</Entity>
+		<Entity uid="1364">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1032.5204" z="134.73124"/>
+			<Orientation y="2.66341"/>
+			<Actor seed="64742"/>
+		</Entity>
+		<Entity uid="1365">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1014.63276" z="136.53312"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="51859"/>
+		</Entity>
+		<Entity uid="1366">
+			<Template>gaia/tree/temperate</Template>
+			<Player>0</Player>
+			<Position x="1032.5442" z="99.37084"/>
+			<Orientation y="-0.92756"/>
+			<Actor seed="12134"/>
 		</Entity>
 	</Entities>
 	<Paths/>
