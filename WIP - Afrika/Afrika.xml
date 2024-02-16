@@ -32,9 +32,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1054.86" y="219.815" z="1.7141"/>
-		<Rotation angle="0"/>
-		<Declination angle="0.610865"/>
+		<Position x="1349.58" y="458.547" z="366.434"/>
+		<Rotation angle="-0.00667802"/>
+		<Declination angle="0.610866"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
